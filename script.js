@@ -18,7 +18,7 @@ window.onclick = function(event) {
 	}
 }
 // login script ends
-
+// A cool comment
 // Index page top review change script 
 $(document).ready(function(){
 	$('#review1').click(function(){
