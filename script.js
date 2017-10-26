@@ -18,7 +18,7 @@ window.onclick = function(event) {
 	}
 }
 // login script ends
-
+// A cool comment
 // Index page top review change script 
 $(document).ready(function(){
 	$('#review1').click(function(){
@@ -30,6 +30,7 @@ $(document).ready(function(){
 		$('#review3').removeClass("active");
 	});
 	$('#review2').click(function(){
+		//hello subrat sahu
 		document.getElementById('user1').style.display="none";
 		document.getElementById('user2').style.display="block";
 		document.getElementById('user3').style.display="none";
